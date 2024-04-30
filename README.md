@@ -6,7 +6,7 @@ Java junior developer & 3D Modeler
 *   🌍  I'm based in Riga
 *   ✉️  You can contact me at [freamsounds@gmail.com](mailto:freamsounds@gmail.com)
 *   🧠  I'm learning Kotlin, Java (advanced)
-*   🤝  I'm open to collaborating on Minecraft projects
+*   🤝  I'm open to collaborate on Minecraft projects
 *   ⚡  P.S I love Belgian waffles🧇
 
 ---------------------------------
