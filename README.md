@@ -1,7 +1,7 @@
 Hi 👋 My name is Fream!
 =======================
 
-Java JUNIOR developer, 3D Modeler
+Java junior developer & 3D Modeler
 ----------------------------------
 
 I have been learning programming since 2019, although I cannot call myself as a professional developer, the reason is a huge gap between 2020 and 2024. My first expirience was as a WEB developer. I have little knowledge in CSS/HTML & JavaScript. Starting from fall 2023, I decided to learn Java. My main sphere of interests now is minecraft plugin coding. Likewise, I also have much expirience in 3D modeling, for instance in application Blockbench. Through my life I got acquainted with different softwares, such as: Adobe Photoshop, Premiere, After Effects, Cinema 4D. Nice to meet you!
