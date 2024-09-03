@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fream</h1>
-<h3 align="center">A bugmaker from Belgium</h3>
+<h3 align="center">A Java bugmaker from Belgium🇧🇪</h3>
 
 - 🔭 I’m currently working on **Rise of Force**
 
