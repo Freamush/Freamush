@@ -25,13 +25,9 @@
   <img width="12" />
   <img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" height="50" alt="burp logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" height="50" alt="burp logo"  />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_elastic_icon_130625.png" height="50" alt="elk logo"  />
   <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_elastic_icon_130625.png" height="50" alt="burp logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_elastic_icon_130625.png" height="50" alt="burp logo"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png" height="50" alt="burp logo"  />
+  <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png" height="50" alt="wire logo"  />
   <img width="12" />
 </div>
 
