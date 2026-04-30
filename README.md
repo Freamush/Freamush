@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Fream</h2>
+<h2 align="left">👋Hi, I'm Fream!</h2>
 <h4>Lowkey passionate about DevOps and Security</h4>
 
 ###
