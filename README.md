@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Fream</h2>
+<h3>I am lowkey passionate about DevOps and Security</h3>
 
 ###
 
@@ -7,10 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freamush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
@@ -28,4 +26,4 @@
 </div>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFsN3MwamZ1a3R6Nmw1bDljcWFldmMxcHdvanA0NjAwZ2t1dHZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif"  />
-###
+
