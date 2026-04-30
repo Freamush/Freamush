@@ -1,17 +1,44 @@
-<h1 align="center">Hi 👋, I'm Fream</h1>
-<h3 align="center">A Java bugmaker from Belgium🇧🇪</h3>
+<h2 align="left">Hi 👋! I'm Fream</h2>
+<h3>Lowkey passionate about DevOps and Security</h3>
+###
 
-- 🔭 I’m currently working on **Rise of Force**
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFsN3MwamZ1a3R6Nmw1bDljcWFldmMxcHdvanA0NjAwZ2t1dHZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif"  />
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freamush&show_icons=true&theme=dark&locale=en&layout=compact" alt="freamush" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freamush&show_icons=true&theme=dark&locale=en" alt="freamush" /></p>
+<div align="left">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freamush&theme=dark" alt="freamush" /></p>
+###
 
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
