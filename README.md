@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Freamush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freamush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFsN3MwamZ1a3R6Nmw1bDljcWFldmMxcHdvanA0NjAwZ2t1dHZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif"  />
 </div>
 
 <br>
@@ -31,5 +31,5 @@
   <img width="12" />
 </div>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFsN3MwamZ1a3R6Nmw1bDljcWFldmMxcHdvanA0NjAwZ2t1dHZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif"  />
+
 
